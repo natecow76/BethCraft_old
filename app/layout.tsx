@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Infinite Crafter Clone",
-  description: "Combine elements to create new ones, forever!",
+  title: "BethCraft",
+  description: "Create the universe to make deliciousness!",
 };
 
 export default function RootLayout({
