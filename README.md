@@ -1,3 +1,1 @@
-# Infinite Craft Clone
-
-Attempt to recreate Infinite Craft by [neal.fun](https://neal.fun)
+# BethCraft: "If you want to make a pie from scratch, you must first create the universe" --Carl Sagan
