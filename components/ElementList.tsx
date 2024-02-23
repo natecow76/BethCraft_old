@@ -80,7 +80,7 @@ const ElementList = () => {
           emoji={element.emoji}
           onClick={() => handleClick(element.name)}
           className={
-            selectedElements.includes(element.name) ? "scale-150 border border-black " : ""
+            selectedElements.includes(element.name) ? "scale-110 border-4 border-black " : ""
           }
         />
       ))}
